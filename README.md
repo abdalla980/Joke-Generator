@@ -1,4 +1,4 @@
-# practice
+# Joke Generator API
 
 First flutter project
 
